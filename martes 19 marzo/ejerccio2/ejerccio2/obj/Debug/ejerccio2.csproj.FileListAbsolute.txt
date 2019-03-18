@@ -1,0 +1,7 @@
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\bin\Debug\ejerccio2.exe.config
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\bin\Debug\ejerccio2.exe
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\bin\Debug\ejerccio2.pdb
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\obj\Debug\ejerccio2.csprojAssemblyReference.cache
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\obj\Debug\ejerccio2.csproj.CoreCompileInputs.cache
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\obj\Debug\ejerccio2.exe
+C:\Users\omnisport\Desktop\martes 19 marzo\ejerccio2\ejerccio2\obj\Debug\ejerccio2.pdb
