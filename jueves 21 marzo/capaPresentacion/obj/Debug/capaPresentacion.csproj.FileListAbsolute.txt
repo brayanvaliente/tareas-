@@ -1,0 +1,9 @@
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Lab3\Desktop\jueves 21 marzo\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
