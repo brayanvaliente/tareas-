@@ -1,0 +1,9 @@
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\bin\Debug\jueves 28 de marzo.exe.config
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\bin\Debug\jueves 28 de marzo.exe
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\bin\Debug\jueves 28 de marzo.pdb
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves 28 de marzo.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves_28_de_marzo.Form1.resources
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves_28_de_marzo.Properties.Resources.resources
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves 28 de marzo.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves 28 de marzo.exe
+C:\Users\Lab3\Desktop\jueves 28 de marzo\jueves 28 de marzo\obj\Debug\jueves 28 de marzo.pdb
