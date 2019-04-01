@@ -1,0 +1,10 @@
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\bin\Debug\tarea martes 2 de abril.exe.config
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\bin\Debug\tarea martes 2 de abril.exe
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\bin\Debug\tarea martes 2 de abril.pdb
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea martes 2 de abril.csprojAssemblyReference.cache
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea_martes_2_de_abril.Form1.resources
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea_martes_2_de_abril.Properties.Resources.resources
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea martes 2 de abril.csproj.GenerateResource.cache
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea martes 2 de abril.csproj.CoreCompileInputs.cache
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea martes 2 de abril.exe
+C:\Users\omnisport\Desktop\tarea martes 2 de abril\tarea martes 2 de abril\obj\Debug\tarea martes 2 de abril.pdb
