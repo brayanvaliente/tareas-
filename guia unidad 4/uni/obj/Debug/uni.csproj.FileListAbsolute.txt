@@ -1,0 +1,10 @@
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\bin\Debug\uni.exe.config
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\bin\Debug\uni.exe
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\bin\Debug\uni.pdb
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.csprojAssemblyReference.cache
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.Form1.resources
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.Properties.Resources.resources
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.csproj.GenerateResource.cache
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.csproj.CoreCompileInputs.cache
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.exe
+C:\Users\omnisport\Desktop\tarea unidad 4\uni\uni\obj\Debug\uni.pdb
